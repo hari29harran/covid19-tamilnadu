@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/hari29harran/covid19-tamilnadu/static/css/main.d2def7dd.chunk.css",
-    "main.js": "/hari29harran/covid19-tamilnadu/static/js/main.d84de0bc.chunk.js",
-    "main.js.map": "/hari29harran/covid19-tamilnadu/static/js/main.d84de0bc.chunk.js.map",
-    "runtime-main.js": "/hari29harran/covid19-tamilnadu/static/js/runtime-main.4495de91.js",
-    "runtime-main.js.map": "/hari29harran/covid19-tamilnadu/static/js/runtime-main.4495de91.js.map",
-    "static/css/2.1f78b77a.chunk.css": "/hari29harran/covid19-tamilnadu/static/css/2.1f78b77a.chunk.css",
-    "static/js/2.617443a2.chunk.js": "/hari29harran/covid19-tamilnadu/static/js/2.617443a2.chunk.js",
-    "static/js/2.617443a2.chunk.js.map": "/hari29harran/covid19-tamilnadu/static/js/2.617443a2.chunk.js.map",
-    "index.html": "/hari29harran/covid19-tamilnadu/index.html",
-    "precache-manifest.16f7f131f6bb3037f4487e82c9a507d1.js": "/hari29harran/covid19-tamilnadu/precache-manifest.16f7f131f6bb3037f4487e82c9a507d1.js",
-    "service-worker.js": "/hari29harran/covid19-tamilnadu/service-worker.js",
-    "static/css/2.1f78b77a.chunk.css.map": "/hari29harran/covid19-tamilnadu/static/css/2.1f78b77a.chunk.css.map",
-    "static/css/main.d2def7dd.chunk.css.map": "/hari29harran/covid19-tamilnadu/static/css/main.d2def7dd.chunk.css.map",
-    "static/js/2.617443a2.chunk.js.LICENSE.txt": "/hari29harran/covid19-tamilnadu/static/js/2.617443a2.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/hari29harran/covid19-tamilnadu/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/srihariharran/covid19-tamilnadu/static/css/main.d2def7dd.chunk.css",
+    "main.js": "/srihariharran/covid19-tamilnadu/static/js/main.66a102ed.chunk.js",
+    "main.js.map": "/srihariharran/covid19-tamilnadu/static/js/main.66a102ed.chunk.js.map",
+    "runtime-main.js": "/srihariharran/covid19-tamilnadu/static/js/runtime-main.0ceaffe9.js",
+    "runtime-main.js.map": "/srihariharran/covid19-tamilnadu/static/js/runtime-main.0ceaffe9.js.map",
+    "static/css/2.01b9b2f3.chunk.css": "/srihariharran/covid19-tamilnadu/static/css/2.01b9b2f3.chunk.css",
+    "static/js/2.617443a2.chunk.js": "/srihariharran/covid19-tamilnadu/static/js/2.617443a2.chunk.js",
+    "static/js/2.617443a2.chunk.js.map": "/srihariharran/covid19-tamilnadu/static/js/2.617443a2.chunk.js.map",
+    "index.html": "/srihariharran/covid19-tamilnadu/index.html",
+    "precache-manifest.85d0a49b9f715c616504f92299f34845.js": "/srihariharran/covid19-tamilnadu/precache-manifest.85d0a49b9f715c616504f92299f34845.js",
+    "service-worker.js": "/srihariharran/covid19-tamilnadu/service-worker.js",
+    "static/css/2.01b9b2f3.chunk.css.map": "/srihariharran/covid19-tamilnadu/static/css/2.01b9b2f3.chunk.css.map",
+    "static/css/main.d2def7dd.chunk.css.map": "/srihariharran/covid19-tamilnadu/static/css/main.d2def7dd.chunk.css.map",
+    "static/js/2.617443a2.chunk.js.LICENSE.txt": "/srihariharran/covid19-tamilnadu/static/js/2.617443a2.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/srihariharran/covid19-tamilnadu/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4495de91.js",
-    "static/css/2.1f78b77a.chunk.css",
+    "static/js/runtime-main.0ceaffe9.js",
+    "static/css/2.01b9b2f3.chunk.css",
     "static/js/2.617443a2.chunk.js",
     "static/css/main.d2def7dd.chunk.css",
-    "static/js/main.d84de0bc.chunk.js"
+    "static/js/main.66a102ed.chunk.js"
   ]
 }
